@@ -1,0 +1,14 @@
+.bodyBackground {
+    background-image:url(background.gif);
+    background-position:center;
+    background-size: 118%;
+    background-repeat: no-repeat;
+}
+
+#meuCanvas {
+    border-width: 20px;
+	border-color: black;
+	background-color: white;
+	border-style: ridge;
+}
+
